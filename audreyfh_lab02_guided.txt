@@ -1,0 +1,9 @@
+Audrey Harrison
+The process I used to complete the lab was to first create a vim file, using "vim .vimrc". Then, I entered the text specified by the lab, and saved the file using ":w" and ":wq". Next, I executed the command "cp .vimrc ~/Desktop/audreyfh_lab02_guided.txt", and then changed directories to Desktop so that I could open the vim file. One hurdle I encountered during the lab was that I didn't really know how to correctly use the cp command, but I figured it out with some help.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
